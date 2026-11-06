@@ -74,8 +74,9 @@
 | **Engineering & Core** | Object-Oriented Programming (OOP), Data Structures, Algorithms, Software Architecture |
 | **Full-Stack & Web** | Astro, React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3 |
 | **Automation & Bots** | n8n (Advanced Workflows), Baileys (WhatsApp REST API), Playwright, Puppeteer |
-| **Backend & Databases** | Python, Node.js, PostgreSQL, MongoDB, REST APIs |
-| **AI, NLP & Vector Search** | ChromaDB, spaCy, SentenceTransformers, pandas |
+| **Backend & APIs** | FastAPI, Django, Python, Node.js, RESTful APIs |
+| **Databases & Vector Storage** | PostgreSQL, MongoDB, ChromaDB (Vector DB) |
+| **AI & NLP** | spaCy, SentenceTransformers, NLP Pipelines, pandas |
 | **DevOps & Infrastructure** | Linux (Ubuntu/Debian VPS), Caddy Server, Git, Docker, Tiled |
 
 ---
